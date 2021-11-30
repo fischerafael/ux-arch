@@ -1,5 +1,7 @@
+import { PublicHome } from "../src/pages/public/home";
+
 const index = () => {
-  return <div>home</div>;
+  return <PublicHome />;
 };
 
 export default index;
